@@ -1,2 +1,2 @@
-# Explainable-AI
-Code for final explainable AI project
+The Jupyter Notebook in this repository contains the code for my final project for Explainable AI.
+To run the code, Final_project_SarahDeWijn.ipynb and earthquakes.csv should be downloaded and stored in the same repository. The Jupyter Notebook can then be run in any environment that supports Jupyter Notebooks. The modules that need to be installed in order to be able to run the code are listed in requirements.txt.
